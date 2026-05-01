@@ -1,4 +1,4 @@
-# 555Timer-PCB
+# 555Timer
 Quick hobby project to learn ECAD
 <img width="358" height="326" alt="2D-Blinking-PCB" src="https://github.com/user-attachments/assets/2d7c92ae-ee4f-4233-9fb4-ddf4984706cb" />
 
